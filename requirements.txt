@@ -8,6 +8,5 @@ langchain-anthropic
 anthropic
 pyarrow
 fastparquet
-streamlit
+streamlit==1.54.0
 python-dotenv
-altair
