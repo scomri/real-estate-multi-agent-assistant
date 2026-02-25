@@ -4,7 +4,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue) ![LangGraph](https://img.shields.io/badge/LangGraph-Multi--agent-darkgreen) ![Claude](https://img.shields.io/badge/Claude-LLM-purple) ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red) 
 
-**[🎥 Watch Demo Video](demo/streamlit-app-2026-02-25-12-06-02.webm)**
+**[🎥 Watch Demo Video](demo/streamlit-app-2026-02-25-20-39-48.webm)**
+
+**[🖥️ The app is also available for use on Streamlit Community Cloud](https://scomri-real-estate-multi-agent-assistant.streamlit.app/)**
 
 ---
 
@@ -20,6 +22,7 @@ Follow these steps to get the assistant running locally.
 
 ### Prerequisites
 - Python <= **3.13** (for Pydantic V2 support)
+- Streamlit = **1.54.0** (for Streamlit Cloud deployment)
 - An **Anthropic API key** (`ANTHROPIC_API_KEY`)
 
 ### Installation
