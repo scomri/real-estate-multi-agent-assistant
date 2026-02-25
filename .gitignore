@@ -1,0 +1,32 @@
+# Environments & Virtual Environments
+.env
+.venv/
+venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Editor & AI Assistant Folders
+.claude/
+.vscode/
+.idea/
+.DS_Store
+
+# Data files (Uncomment if you want to ignore large data files in /data)
+# *.parquet
+# *.csv
+# data/
+
+# misc directories
+misc/

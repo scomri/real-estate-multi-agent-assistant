@@ -1,0 +1,12 @@
+pandas
+seaborn
+matplotlib
+langgraph
+langchain-google-genai
+google-genai
+langchain-anthropic
+anthropic
+pyarrow
+fastparquet
+streamlit
+python-dotenv
