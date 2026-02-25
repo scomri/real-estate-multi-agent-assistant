@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue) ![LangGraph](https://img.shields.io/badge/LangGraph-Multi--agent-darkgreen) ![Claude](https://img.shields.io/badge/Claude-LLM-purple) ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red) 
 
-**[🎥 Watch Demo Video](streamlit-app-2026-02-25-12-06-02.webm)**
+**[🎥 Watch Demo Video](demo/streamlit-app-2026-02-25-12-06-02.webm)**
 
 ---
 
@@ -75,7 +75,7 @@ streamlit run app.py
 
 The app opens in your browser at `http://localhost:8501`. 
 
-Each response includes a collapsible **Debug: agent state** panel showing the decomposed sub-queries, sub-result count, and the final response.
+Each response includes a collapsible **`Debug: agent state`** panel showing the decomposed sub-queries and sub-results.
 
 ---
 
